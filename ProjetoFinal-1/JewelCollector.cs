@@ -72,31 +72,30 @@ Crie o robô na posição (x, y) = (0, 0).
 Inicie o jogo, isto é, leia o teclado e colete todas as joias e desvie dos obstáculos interativamente.
 */
 
-
+// metodos criar mapa, inserir joias, obstaculos
+// instanciar robo, ler comando de teclado
 public class JewelCollector {
-
-  public static void Main() {
+    public static void Main() {
   
-      bool running = true;
+        bool running = true;
   
-      do {
+        do {
+            Console.WriteLine("Enter the command: ");
+            string command = Console.ReadLine();
   
-          Console.WriteLine("Enter the command: ");
-          string command = Console.ReadLine();
-  
-          if (command.Equals("quit")) {
-              running = false;
-          } else if (command.Equals("w")) {
+            if (command.Equals("quit")) {
+                running = false;
+            } else if (command.Equals("w")) {
               
-          } else if (command.Equals("a")) {
+            } else if (command.Equals("a")) {
               
-          } else if (command.Equals("s")) {
+            } else if (command.Equals("s")) {
             
-          } else if (command.Equals("d")) {
+            } else if (command.Equals("d")) {
           
-          } else if (command.Equals("g")) {
+            } else if (command.Equals("g")) {
               
-          }
-      } while (running);
-  }
+            }
+        } while (running);
+    }
 }
