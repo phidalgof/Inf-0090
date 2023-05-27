@@ -1,0 +1,15 @@
+/home/paul/Documents/Inf-0090/ProjetoFinal-1/bin/Debug/net6.0/ProjetoFinal-1
+/home/paul/Documents/Inf-0090/ProjetoFinal-1/bin/Debug/net6.0/ProjetoFinal-1.deps.json
+/home/paul/Documents/Inf-0090/ProjetoFinal-1/bin/Debug/net6.0/ProjetoFinal-1.runtimeconfig.json
+/home/paul/Documents/Inf-0090/ProjetoFinal-1/bin/Debug/net6.0/ProjetoFinal-1.dll
+/home/paul/Documents/Inf-0090/ProjetoFinal-1/bin/Debug/net6.0/ref/ProjetoFinal-1.dll
+/home/paul/Documents/Inf-0090/ProjetoFinal-1/bin/Debug/net6.0/ProjetoFinal-1.pdb
+/home/paul/Documents/Inf-0090/ProjetoFinal-1/obj/Debug/net6.0/ProjetoFinal-1.csproj.AssemblyReference.cache
+/home/paul/Documents/Inf-0090/ProjetoFinal-1/obj/Debug/net6.0/ProjetoFinal-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/paul/Documents/Inf-0090/ProjetoFinal-1/obj/Debug/net6.0/ProjetoFinal-1.AssemblyInfoInputs.cache
+/home/paul/Documents/Inf-0090/ProjetoFinal-1/obj/Debug/net6.0/ProjetoFinal-1.AssemblyInfo.cs
+/home/paul/Documents/Inf-0090/ProjetoFinal-1/obj/Debug/net6.0/ProjetoFinal-1.csproj.CoreCompileInputs.cache
+/home/paul/Documents/Inf-0090/ProjetoFinal-1/obj/Debug/net6.0/ProjetoFinal-1.dll
+/home/paul/Documents/Inf-0090/ProjetoFinal-1/obj/Debug/net6.0/ref/ProjetoFinal-1.dll
+/home/paul/Documents/Inf-0090/ProjetoFinal-1/obj/Debug/net6.0/ProjetoFinal-1.pdb
+/home/paul/Documents/Inf-0090/ProjetoFinal-1/obj/Debug/net6.0/ProjetoFinal-1.genruntimeconfig.cache
