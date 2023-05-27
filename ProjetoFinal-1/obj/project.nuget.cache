@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3fN6aEQ5GmVmXQpN45tdWSjay7XPyG1wsZ4mjfks2keq7WxcA9AJJNsSLIgGbOIq8zaikhLRvAWQR59lG3HLwQ==",
+  "dgSpecHash": "S7H3mutZFo7Gsu/kjBoGUHpSkKhqjhRZUU5VLTLZCI75LVGpMMJVgNmkTukjOD8oePJUYrAzKHA+UcfZcFwsYw==",
   "success": true,
-  "projectFilePath": "/home/paul/Documents/Inf-0090/ProjetoFinal-1/ProjetoFinal-1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\msft59\\Documents\\Inf0990\\Inf-0090\\ProjetoFinal-1\\ProjetoFinal-1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msft59\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\msft59\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\msft59\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\msft59\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

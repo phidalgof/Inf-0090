@@ -1,0 +1,15 @@
+C:\Users\msft59\Documents\Inf0990\Inf-0090\ProjetoFinal-2\bin\Debug\net7.0\ProjetoFinal-2.exe
+c:\Users\msft59\Documents\Inf0990\Inf-0090\ProjetoFinal-2\bin\Debug\net7.0\ProjetoFinal-2.deps.json
+c:\Users\msft59\Documents\Inf0990\Inf-0090\ProjetoFinal-2\bin\Debug\net7.0\ProjetoFinal-2.runtimeconfig.json
+C:\Users\msft59\Documents\Inf0990\Inf-0090\ProjetoFinal-2\bin\Debug\net7.0\ProjetoFinal-2.dll
+C:\Users\msft59\Documents\Inf0990\Inf-0090\ProjetoFinal-2\bin\Debug\net7.0\ProjetoFinal-2.pdb
+C:\Users\msft59\Documents\Inf0990\Inf-0090\ProjetoFinal-2\obj\Debug\net7.0\ProjetoFinal-2.csproj.AssemblyReference.cache
+C:\Users\msft59\Documents\Inf0990\Inf-0090\ProjetoFinal-2\obj\Debug\net7.0\ProjetoFinal-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msft59\Documents\Inf0990\Inf-0090\ProjetoFinal-2\obj\Debug\net7.0\ProjetoFinal-2.AssemblyInfoInputs.cache
+C:\Users\msft59\Documents\Inf0990\Inf-0090\ProjetoFinal-2\obj\Debug\net7.0\ProjetoFinal-2.AssemblyInfo.cs
+C:\Users\msft59\Documents\Inf0990\Inf-0090\ProjetoFinal-2\obj\Debug\net7.0\ProjetoFinal-2.csproj.CoreCompileInputs.cache
+C:\Users\msft59\Documents\Inf0990\Inf-0090\ProjetoFinal-2\obj\Debug\net7.0\ProjetoFinal-2.dll
+C:\Users\msft59\Documents\Inf0990\Inf-0090\ProjetoFinal-2\obj\Debug\net7.0\refint\ProjetoFinal-2.dll
+C:\Users\msft59\Documents\Inf0990\Inf-0090\ProjetoFinal-2\obj\Debug\net7.0\ProjetoFinal-2.pdb
+c:\Users\msft59\Documents\Inf0990\Inf-0090\ProjetoFinal-2\obj\Debug\net7.0\ProjetoFinal-2.genruntimeconfig.cache
+c:\Users\msft59\Documents\Inf0990\Inf-0090\ProjetoFinal-2\obj\Debug\net7.0\ref\ProjetoFinal-2.dll

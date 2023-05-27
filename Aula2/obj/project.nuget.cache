@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yunTjZWkPuVLctlecMljPUtfce2ZAnVoVn0Bsb+baVhX7sjm9d4on1nxwBJPL+qUj+e4gR15+H8flH+KjyA5SQ==",
+  "dgSpecHash": "MVXGaDsecYQuO47kvXLhk9UcylWWLLXVXCyYNcT+pkQTYy5ijUiHYqskmrsZaaluoPyF821tL7w6zY0zgF/VbQ==",
   "success": true,
-  "projectFilePath": "/home/paul/Documents/Inf-0090/Aula2/Aula2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\msft59\\Documents\\Inf0990\\Inf-0090\\Aula2\\Aula2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msft59\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\msft59\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\msft59\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\msft59\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

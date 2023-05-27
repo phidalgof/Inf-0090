@@ -74,9 +74,24 @@ Inicie o jogo, isto é, leia o teclado e colete todas as joias e desvie dos obst
 
 // metodos criar mapa, inserir joias, obstaculos
 // instanciar robo, ler comando de teclado
+
+
+namespace ProjetoFinal_1;
+
+
 public class JewelCollector {
     public static void Main() {
-  
+        
+        Jewel red = new Jewel("Red", 100, 1, 9);
+
+        Robot.movement();
+        
+        Map.AddJewel();
+        Map.RemoveJewel();
+        Map.AddObstacle();
+        Map.RemoveObstacle();
+        Map.ShowMap();
+
         bool running = true;
   
         do {

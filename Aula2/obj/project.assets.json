@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/paul/.nuget/packages/": {}
+    "C:\\Users\\msft59\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/paul/Documents/Inf-0090/Aula2/Aula2.csproj",
+      "projectUniqueName": "c:\\Users\\msft59\\Documents\\Inf0990\\Inf-0090\\Aula2\\Aula2.csproj",
       "projectName": "Aula2",
-      "projectPath": "/home/paul/Documents/Inf-0090/Aula2/Aula2.csproj",
-      "packagesPath": "/home/paul/.nuget/packages/",
-      "outputPath": "/home/paul/Documents/Inf-0090/Aula2/obj/",
+      "projectPath": "c:\\Users\\msft59\\Documents\\Inf0990\\Inf-0090\\Aula2\\Aula2.csproj",
+      "packagesPath": "C:\\Users\\msft59\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\msft59\\Documents\\Inf0990\\Inf-0090\\Aula2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/paul/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\msft59\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -49,16 +49,35 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

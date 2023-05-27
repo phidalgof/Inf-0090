@@ -53,9 +53,17 @@ char[] easy = {'a','e','i','o','u'};
 
 int[] a = new int[1000];
 Console.Write(a[123]);    // 0
+Console.Write("\n");
+Console.Write("\n");
 
 int[,] matrix = new int[3, 3];    // Vetor de inteiros com duas dimensões
+Console.Write(matrix); 
 
-for (int i = 0; i < matrix.GetLength(0); i++) // O metodo GetLength retorna o tamanho de um vetor
-  for (int j = 0; j < matrix.GetLength(1); j++)
-    matrix[i, j] = i * 3 + j;
+for (int i = 0; i < matrix.GetLength(0); i++){ // O metodo GetLength retorna o tamanho de um vetor
+  for (int j = 0; j < matrix.GetLength(1); j++){
+    matrix[i, j] = 10 ;
+    Console.Write(matrix[i, j]);
+    Console.Write(" | ");
+  }
+  Console.Write("\n");
+}
